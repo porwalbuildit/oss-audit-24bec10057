@@ -27,8 +27,7 @@ Linus Torvalds in 2005.
 
 ### Step 1 — Clone the repository
 
-git clone https://github.com/
-cd oss-audit-24BEC10057
+git clone [https://github.com/cd oss-audit-24BEC10057](https://github.com/porwalbuildit/oss-audit-24bec10057)
 
 ### Step 2 — Give execute permission
 chmod +x *.sh
